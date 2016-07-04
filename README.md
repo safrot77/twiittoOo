@@ -1,4 +1,4 @@
-# twiittoOo is a simple Twitter client application based on Android based on Android Kitkat (API 19)
+# twiittoOo is a simple Twitter client application
 
 Current Features:
 - Localization for Arabic, English and French
