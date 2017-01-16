@@ -1,4 +1,4 @@
-# twiittoOo is a simple Twitter client application
+# twiittoOo is a simple Twitter client application for Android
 
 Current Features:
 - Localization for Arabic, English and French
